@@ -9,7 +9,7 @@ Priority is determined at the start of each turn as follows:
 
 To check who has priority, look at the name tag of each player. The player with priority will have a glowing border around their name. It's noteworthy that the glowing effect take some time to appear, so watch out!
 
-![priority image](https://github.com/bliind/snap-wiki/raw/main/images/priority/Priority.webp)
+![priority image](https://github.com/bliind/snap-wiki/raw/main/images/Priority.webp)
 
 ## How does Priority Impact the Game?
 
