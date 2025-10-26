@@ -50,7 +50,7 @@ The MMR then influences who exactly within that bracket you'd pair with.
 It is possible to play against bots in pre-Infinite ranked mode. The higher your rank, the fewer bots you will encounter, though you will have higher odds of playing against a bot if your queue times are long.
 
 ## Infinite Ranked
-Once you've hit Infinite (Rank 100), you will be assigned an Infinite rank based on the number of Snap Points you have. This number is calculated based on your MMR. Your Infinite rank is a global rank ([Source](https://discord.com/channels/978545345715908668/978547819214434304/1148662841780473947) ).
+Once you've hit Infinite (Rank 100), you will be assigned an Infinite rank based on the number of Snap Points you have. This number is calculated based on your MMR. Your Infinite rank is a global rank ([Source](https://discord.com/channels/978545345715908668/978547819214434304/1148662841780473947)).
 
 The Ranked Infinite Leaderboards for the current and previous Snap season's can be found in the "News" tab. You can sort the leaderboards based on region, or globally. The ranked leaderboards only show the top 1000 players in the sort.
 
@@ -61,4 +61,4 @@ The Ranked Infinite Leaderboards for the current and previous Snap season's can 
 * You no longer gain or lose cubes; instead you gain or lose Snap Points
 
 ## Matchmaking Rating
-Your Matchmaking Rating is a hidden number that the game keeps track of. As you win games, that number goes up; as you lose games, that number goes down. The amount of points you win or lose from a match is also weighted by the cube value of the match and the MMR of your opponent. For example, an 8-cube game has roughly 8 times the MMR impact of a 1-cube game ([Source](https://discord.com/channels/978545345715908668/978547819214434304/991828645356257330) ).
+Your Matchmaking Rating is a hidden number that the game keeps track of. As you win games, that number goes up; as you lose games, that number goes down. The amount of points you win or lose from a match is also weighted by the cube value of the match and the MMR of your opponent. For example, an 8-cube game has roughly 8 times the MMR impact of a 1-cube game ([Source](https://discord.com/channels/978545345715908668/978547819214434304/991828645356257330)).
