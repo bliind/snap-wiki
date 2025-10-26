@@ -22,17 +22,17 @@ No matter how high you rank at Infinite, you will always reset to rank 75.
 
 ## Rewards
 
-Rank 5 (Agent): Marvel Snap cardback (can only be claimed once per account)
-Rank 10 (Iron): 200 Credits
-Rank 20 (Bronze): 40 Random Boosters
-Rank 30 (Silver): 250 Credits
-Rank 40 (Gold): Season-themed Title
-Rank 50 (Platinum):  400 Credits
-Rank 60 (Diamond): Mystery Variant
-Rank 70 (Vibranium): 500 Credits
-Rank 80 (Omega): Season-themed Avatar (The season pass card's base avatar)
-Rank 90 (Galactic): 500 Gold
-Rank 100 (Infinite): Infinite style of Season-themed cardback
+- Rank 5 (Agent): Marvel Snap cardback (can only be claimed once per account)
+- Rank 10 (Iron): 200 Credits
+- Rank 20 (Bronze): 40 Random Boosters
+- Rank 30 (Silver): 250 Credits
+- Rank 40 (Gold): Season-themed Title
+- Rank 50 (Platinum):  400 Credits
+- Rank 60 (Diamond): Mystery Variant
+- Rank 70 (Vibranium): 500 Credits
+- Rank 80 (Omega): Season-themed Avatar (The season pass card's base avatar)
+- Rank 90 (Galactic): 500 Gold
+- Rank 100 (Infinite): Infinite style of Season-themed cardback
 
 ![rewards image](https://github.com/bliind/snap-wiki/raw/main/images/ranked/RankedRewards.webp)
 
