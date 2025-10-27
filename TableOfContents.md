@@ -1,8 +1,6 @@
 ## Disclaimer
 This wiki is made by **members of this community** and will keep growing thanks to your feedback and support!
 
----
-
 ## Table of Contents
 
 ## New Player
