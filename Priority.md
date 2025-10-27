@@ -18,3 +18,18 @@ Often times, priority can be a deciding factor for which player has an advantage
 ### Special Cases
 
 [Bar With No Name](<https://snap.fan/locations/BarWithNoName/>) is a location that reads "Whoever has the least Power here wins." Since priority is determined by whoever is winning at the most locations, the calculation for priority is inverted at this location.
+
+# Post Changelog
+- [2025/8/21] Ghost example removed
+- [2025/6/21] Repost
+- [2024/6/21] Corrections to Alioth's ability, added links for cards and locations
+- [2024/3/22] Introduced
+
+### Contributors
+<@625809113011585070>
+<@615726323649740802>
+<@547706879556583425>
+<@175716657744969729>
+<@809363911954399282> 
+<@190837647327887361>
+<@1066521964866437150>
