@@ -34,7 +34,7 @@ No matter how high you rank at Infinite, you will always reset to rank 75.
 - Rank 90 (Galactic): 500 Gold
 - Rank 100 (Infinite): Infinite style of Season-themed cardback
 
-![rewards image](https://github.com/bliind/snap-wiki/raw/main/images/RankedRewards.webp)
+![rewards image](https://github.com/bliind/snap-wiki/raw/main/images/Ranked/RankedRewards.webp)
 
 ## Pre-Infinite Matchmaking
 While not everything is known about how ranked matchmaking works, the devs have given us *some* information on how the matchmaking algorithm works. Ranked matchmaking is regional, meaning you will only queue against players in your region; there are currently 3 regions with an intent to eventually make matchmaking global ([Source](https://discord.com/channels/978545345715908668/978547819214434304/1174025706313875466))
