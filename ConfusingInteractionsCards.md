@@ -2005,10 +2005,13 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - If Elixir is revealed at the end of the game, he will revive a card destroyed on turn 5
 
 [Xorn](https://snap.fan/cards/Xorn/)
+
 [Mercury](https://snap.fan/cards/Mercury/)
+
 [Hellion](https://snap.fan/cards/Hellion/)
 
 [Merlin](<https://snap.fan/cards/Merlin/>)
+
 [Omniversal Presence](<https://snap.fan/cards/OmniversalPresence/>)
 - Omniversal Presence does not get boosted odds to spawn the hot location.
 - Omniversal Presence shares the same location rarities as the default 3 locations in a match. 
@@ -2016,8 +2019,10 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - Omniversal Presence's effect doesn't work on Deep Space or Knowhere.
 - Playing Omniversal Presence on a location with an "After you play a card here" ability won't trigger it.
 - Omniversal Presence won't trigger "After you play a card here" location abilities for the new location it creates.
+
 [Once and Future](<https://snap.fan/cards/OnceAndFuture/>)
 - Once and Future looks at current power, not base power when deciding which card to shuffle
+
 [Polymorph](<https://snap.fan/cards/Polymorph/>)
 - Polymorph looks at current power, not base power when deciding which card to transform
 - Polymorph looks at base cost when transforming
@@ -2027,6 +2032,7 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - The cards Morgan Le Fay returns are not considered created
 
 [The Ancient One](<https://snap.fan/cards/TheAncientOne/>)
+
 [Tao Mandala](<https://snap.fan/cards/TaoMandala/>)
 - If an ongoing card has its text removed, Tao Mandala cannot copy its text
 
@@ -2034,11 +2040,14 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - Nightmare looks at base cost when replacing text
 
 [Dormammu](<https://snap.fan/cards/Dormammu/>)
+
 [Summoning Ritual 1](<https://snap.fan/cards/SummoningRitual01Dormammu/>)
 - Summoning Ritual 1 looks at current power when merging
 - Summoning Ritual 1 will not merge a card that has already been returned, like [Deadpool](<https://discord.com/channels/978545345715908668/1221858388401717279/1221878688472109117>)
+
 [Summoning Ritual 2](<https://snap.fan/cards/SummoningRitual02Dormammu/>)
 - Dormammu will not gain power from cards if they are protected by [Luke Cage](<https://discord.com/channels/978545345715908668/1221858388401717279/1221885018750849096>)
+
 [Summoning Ritual 3](<https://snap.fan/cards/SummoningRitual03Dormammu/>)
 - Dormammu will not be summoned if 2 cards cannot be destroyed
 - The cards will not be destroyed if Dormammu is no longer in your hand or deck
@@ -2046,24 +2055,37 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 [Clea](<https://snap.fan/cards/Clea/>)
 - Clea will not add the Flames of the Faltine to your hand if she is buffed in the deck
 - If Clea's power is set to another by a card like [Bast](<https://snap.fan/cards/Bast/>), it will not count as a permanent increase
+
 [Flames of the Faltine](<https://snap.fan/cards/FlamesOfTheFaltine/>)
 
 [Nicholas Scratch](https://snap.fan/cards/NicholasScratch/)
+
 [Jennifer Kale](https://snap.fan/cards/JenniferKale/)
+
 [Cobra](https://snap.fan/cards/Cobra/)
+
 [Kid Omega](https://snap.fan/cards/KidOmega/)
 
 [Mr Fantastic First Steps](https://snap.fan/cards/MrFantasticFirstSteps/)
+
 [Fantasticar](https://snap.fan/cards/Fantasticar/)
+
 [HERBIE](https://snap.fan/cards/HERBIE/)
+
 [Human Torch First Steps](https://snap.fan/cards/HumanTorchFirstSteps/)
+
 [The Thing First Steps](https://snap.fan/cards/TheThingFirstSteps/)
+
 [Invisible Woman First Steps](https://snap.fan/cards/InvisibleWomanFirstSteps/)
+
 [Mad Thinker](https://snap.fan/cards/MadThinker/)
+
 [Mole Man](https://snap.fan/cards/MoleMan/)
+
 [Astral Projection](https://snap.fan/cards/AstralProjection/)
 
 [Galactus First Steps](https://snap.fan/cards/GalactusFirstSteps/)
+
 [Silver Surfer First Steps](https://snap.fan/cards/SilverSurferFirstSteps/)
 
 [Stardust](https://snap.fan/cards/Stardust/)
@@ -2078,7 +2100,9 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - Removing abilities will not remove any permanent power already gained from their ability.
 
 [Airwalker](https://snap.fan/cards/Airwalker/)
+
 [Firelord](https://snap.fan/cards/Firelord/)
+
 [Red Shift](https://snap.fan/cards/RedShift/)
 
 [Terrax The Tamer](https://snap.fan/cards/Terrax/)
@@ -2086,24 +2110,36 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - His power is added to the location before his reveal.
 
 [Viv Vision](https://snap.fan/cards/VivVision/)
+
 [Sparky](https://snap.fan/cards/Sparky/)
+
 [Moira X](https://snap.fan/cards/MoiraX/)
+
 [Bastion](https://snap.fan/cards/Bastion/)
+
 [Jim Hammond](https://snap.fan/cards/JimHammond/)
+
 [Warlock](https://snap.fan/cards/Warlock/)
 
 [Jocasta](https://snap.fan/cards/Jocasta/)
 - Can activate another card the same turn it is played
 
 [Awesome Andy](https://snap.fan/cards/AwesomeAndy/)
+
 [Omega Sentinel](https://snap.fan/cards/OmegaSentinel/)
+
 [Danger](https://snap.fan/cards/Danger/)
+
 [Super Adaptoid](https://snap.fan/cards/SuperAdaptoid/)
 
 [Zombie Scarlet Witch](https://snap.fan/cards/ZombieScarletWitch/)
+
 [Headpool](https://snap.fan/cards/Headpool/)
+
 [Colonel America](https://snap.fan/cards/ColonelAmerica/)
+
 [Zombie Mr Fantastic](https://snap.fan/cards/ZombieMisterFantastic/)
+
 [Zombie Captain Marvel](https://snap.fan/cards/ZombieCaptainMarvel/)
 
 [Zombie Galacti](https://snap.fan/cards/ZombieGalacti/)
@@ -2112,6 +2148,7 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - Your opponent **cannot** see how big Zombie Galacti is
 
 [Zombie Power Man](https://snap.fan/cards/ZombiePowerMan/)
+
 [Zombie Giant Man](https://snap.fan/cards/ZombieGiantMan/)
 
 [Zombie Sentry](https://snap.fan/cards/ZombieSentry/)
@@ -2130,14 +2167,18 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - Merging inherits the "Last Played" attribute, this means if duplicated with Arnim Zola where the last played card is **not** Man-Spider, the first one will merge and inherit the "last played" attribute, and the second one will merge with it, creating only one Man-Spider.
 
 [Spider-Man Noir](https://snap.fan/cards/SpiderManNoir/)
+
 [Ezekiel Sims](https://snap.fan/cards/EzekielSims/)
+
 [Prowler](https://snap.fan/cards/Prowler/)
+
 [Web Sling](https://snap.fan/cards/WebSling/)
 
 [Deafening Chord](https://snap.fan/cards/DeafeningChord/)
 - Looks at base Cost
 
 [Hydro Man](https://snap.fan/cards/HydroMan/)
+
 [Chameleon](https://snap.fan/cards/Chameleon/)
 
 [Weapon X](https://snap.fan/cards/WeaponXWolverine/)
@@ -2153,9 +2194,15 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - Will continue to return to hand when discarded even at 0 cost.
 
 [Maverick](https://snap.fan/cards/Maverick/)
+
 [Aurora](https://snap.fan/cards/Aurora/)
+
 [Fantomex](https://snap.fan/cards/Fantomex/)
+
 [Wade Wilson](https://snap.fan/cards/WadeWilson/)
+
 [Wild Child](https://snap.fan/cards/WildChild/)
+
 [Fastball Special](https://snap.fan/cards/FastballSpecial/)
+
 [Marrow](https://snap.fan/cards/Marrow/)
