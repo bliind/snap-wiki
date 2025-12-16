@@ -2012,20 +2012,20 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 
 [Merlin](<https://snap.fan/cards/Merlin/>)
 
-[Omniversal Presence](<https://snap.fan/cards/OmniversalPresence/>)
-- Omniversal Presence does not get boosted odds to spawn the hot location.
-- Omniversal Presence shares the same location rarities as the default 3 locations in a match. 
-  - Location rarities can be found [here](<https://snap.fan/locations/>)
-- Omniversal Presence's effect doesn't work on Deep Space or Knowhere.
-- Playing Omniversal Presence on a location with an "After you play a card here" ability won't trigger it.
-- Omniversal Presence won't trigger "After you play a card here" location abilities for the new location it creates.
+- [Omniversal Presence](<https://snap.fan/cards/OmniversalPresence/>)
+  - Omniversal Presence does not get boosted odds to spawn the hot location.
+  - Omniversal Presence shares the same location rarities as the default 3 locations in a match. 
+    - Location rarities can be found [here](<https://snap.fan/locations/>)
+  - Omniversal Presence's effect doesn't work on Deep Space or Knowhere.
+  - Playing Omniversal Presence on a location with an "After you play a card here" ability won't trigger it.
+  - Omniversal Presence won't trigger "After you play a card here" location abilities for the new location it creates.
 
-[Once and Future](<https://snap.fan/cards/OnceAndFuture/>)
-- Once and Future looks at current power, not base power when deciding which card to shuffle
+- [Once and Future](<https://snap.fan/cards/OnceAndFuture/>)
+  - Once and Future looks at current power, not base power when deciding which card to shuffle
 
-[Polymorph](<https://snap.fan/cards/Polymorph/>)
-- Polymorph looks at current power, not base power when deciding which card to transform
-- Polymorph looks at base cost when transforming
+- [Polymorph](<https://snap.fan/cards/Polymorph/>)
+  - Polymorph looks at current power, not base power when deciding which card to transform
+  - Polymorph looks at base cost when transforming
 
 [Morgan Le Fay](<https://snap.fan/cards/MorganLeFay/>)
 - Morgan Le Fay will only return cards from the discard and destroy piles and not cards that have already been returned, like [Deadpool](<https://discord.com/channels/978545345715908668/1221858388401717279/1221878688472109117>)
