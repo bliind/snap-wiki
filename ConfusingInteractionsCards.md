@@ -2150,6 +2150,7 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 [Zombie Power Man](https://snap.fan/cards/ZombiePowerMan/)
 
 [Zombie Giant Man](https://snap.fan/cards/ZombieGiantMan/)
+- Zombie Giant Man does not see ongoing buffs to the Horde when he gains its power.
 
 [Zombie Sentry](https://snap.fan/cards/ZombieSentry/)
 - Counts unrevealed cards
