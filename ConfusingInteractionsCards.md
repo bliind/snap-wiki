@@ -2092,7 +2092,9 @@ When each Onslaught is applied, add up all previous modifiers, then multiply the
 - Prevents all effects that add cards to the board on both sides.
 
 [Frankie Raye](https://snap.fan/cards/FrankieRaye/)
+- Only doubles once for the next 6-Cost card you play
 - The copies will not double if hit with Arnim Zola
+- Copies made by Arnim Zola can double if another 6-Cost card is played.
 
 [Fallen One](https://snap.fan/cards/FallenOne/)
 
